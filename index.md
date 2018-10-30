@@ -1,7 +1,7 @@
 ## Welcome to pj18_istema
 
 ## Assignment 3
-[ODD 2017 06](Assignment3.html)
+[ODD HW: ODD_2017_06](Assignment3.html)
 
 ## Assignment 2 
 [RMarkdown Assignment](Istem_Akca_BDA503_Ass2.html)
