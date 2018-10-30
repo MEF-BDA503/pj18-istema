@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MEF-BDA503/pj18-istema/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to pj18_istema
 
 ## Assignment 3
-[ODD 2017 06](Istem_Akca_BDA503_Ass2.html)
+[ODD 2017 06](Assignment3.html)
 
 ## Assignment 2 
 [RMarkdown Assignment](Istem_Akca_BDA503_Ass2.html)
 
+
+###  Useful to GitHub Pages
+You can use the [editor on GitHub](https://github.com/MEF-BDA503/pj18-istema/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
